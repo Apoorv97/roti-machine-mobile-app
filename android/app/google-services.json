@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "773334057043",
+    "firebase_url": "https://iot-roti-machine.firebaseio.com",
+    "project_id": "iot-roti-machine",
+    "storage_bucket": "iot-roti-machine.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:773334057043:android:fffc535013c60a68",
+        "android_client_info": {
+          "package_name": "com.rotiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "773334057043-pjb2fgp1i222k6kucusm1j61uvbq0n8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaX_sGlXm9mjlcg8G7X6xG6shvzRGkavg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
